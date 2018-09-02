@@ -1,5 +1,6 @@
 # Create a video chat app
 ---------------------------
+
 We are working on a self driving car solution. 
 
 We need a way to stream video from car to control room. To do this we need an application that allows us to stream the video.
@@ -14,14 +15,16 @@ Success criteria:
 - Be able to do video chat between two machines running either linux or android 
 - Post youtube video that shows the video is being streamed properly.
 
-# Result at the end of week 1:
+### Result at the end of week 1:
 Build the webrtc subpackage of chromium package and now are able to run the sample client and server and those can connect successfully. Have taken the video and posted on youtube unlisted video https://www.youtube.com/watch?v=fJsgKMfRkpQ .
 
-# Problems faced:
+### Problems faced:
 The webrtc can not be built with python 3.6 and then when tried to use anaconda with python 2.7 the build system complained about unknown python. Had to remove anaconda and restore Ubuntu default python 2.7 to build webrtc.
 
-# Work not finished in time:
+### Work not finished in time:
+
 Tested the build from one system without connecting two different client on separate machine. To fix this we need to setup another test machine with ubuntu and a webcam. Estimated time required 2-6 hours.
+
 ---------------------------------
 
 ## Week 2 - 20%
