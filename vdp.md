@@ -1,0 +1,43 @@
+# Create a video chat app
+
+We need a way to stream video from car to control room. To do this we need an application that allows us to stream the video 
+
+
+## Week 1 - 10%
+This weeks work is to make the webrtc sample apps work. 
+
+### Success criteria:
+    Be able to configure webrtc build using chromium project.
+    Be able to do video chat between two machines running either linux or android 
+    Post youtube video that shows the video is being streamed properly.
+
+## Week 2 - 20%
+Create signaling server on AWS account
+
+### Success criteria:
+    The clients are able to communicate using the signaling server that is deployed in AWS account.
+
+## Week 8
+### Add the 
+
+## Week 5 - 50%
+Recruit users
+
+### Success criteria:
+    Have at least 5 users who are using the app.
+
+
+## Week 10 - 100%
+Launch version 1 of the app in google play or app store.
+
+## Week 11
+Decide if the application itself is a promising product to create a company around it.
+
+### Success criteria:
+    A clear decision to go forward or not.
+
+## Week 15
+Get 100 active users.
+
+### Success criteria:
+    Users must be using the app 2 times a week to call a friend to be considered active users.
