@@ -9,3 +9,5 @@ Every piece of content I share—whether a snapshot of a bustling market or a qu
 Follow along as we explore, one country at a time!
 
 [Follow on facebook](https://www.facebook.com/profile.php?id=61559219108650)
+
+![Lighthouse](images/banner1.jpg "Lighthouse")
